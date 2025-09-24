@@ -1,5 +1,6 @@
 # Identity Verification Pipeline
 
+ HEAD
 This project is part of the **Bio Secure MVP**.
 
 ## 🎯 Purpose
@@ -24,3 +25,8 @@ Clone the repo:
 git clone https://<YOUR_TOKEN>@github.com/DasiaCodes/identity-verification-pipeline.git
 cd identity-verification-pipeline
 pip install -r requirements.txt
+=======
+This repo is part of the Bio Secure MVP.  
+Phase 1 starts with a batch scanning engine and audit logs.
+
+>>>>>>> 3c76608 (Add batch scanning engine (scanner.py) with logs folder placeholder)
