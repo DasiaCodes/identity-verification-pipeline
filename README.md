@@ -1,5 +1,3 @@
-# identity-verification-pipeline
-Bio Secure MVP – identity verification + deepfake/document forgery detection system
 # Identity Verification Pipeline
 
 This project is part of the **Bio Secure MVP**.
